@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTI", "RunTI\RunTI.csproj", "{747029AB-02DB-435F-A10D-BCF13C7427A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		UACSkip|Any CPU = UACSkip|Any CPU
+		UACSkip|x64 = UACSkip|x64
+		UACSkip|x86 = UACSkip|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.Release|x64.ActiveCfg = Release|x64
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.Release|x64.Build.0 = Release|x64
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.Release|x86.ActiveCfg = Release|x86
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.Release|x86.Build.0 = Release|x86
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.UACSkip|Any CPU.ActiveCfg = UACSkip|Any CPU
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.UACSkip|Any CPU.Build.0 = UACSkip|Any CPU
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.UACSkip|x64.ActiveCfg = UACSkip|x64
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.UACSkip|x64.Build.0 = UACSkip|x64
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.UACSkip|x86.ActiveCfg = UACSkip|x86
+		{747029AB-02DB-435F-A10D-BCF13C7427A6}.UACSkip|x86.Build.0 = UACSkip|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C070CCD3-191F-4FE0-B57D-853CD629C46D}
+	EndGlobalSection
+EndGlobal
